@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.zalando:jackson-datatype-problem:0.20.1">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.zalando/jackson-datatype-problem/0.20.1/c0dbe38bc4ec68e345b363608bf9c9cc262e8729/jackson-datatype-problem-0.20.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.zalando/jackson-datatype-problem/0.20.1/dc63b51bd70e95fd52df650ff3a046f3f7551bd8/jackson-datatype-problem-0.20.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

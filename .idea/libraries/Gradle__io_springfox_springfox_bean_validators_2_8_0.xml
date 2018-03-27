@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: io.springfox:springfox-bean-validators:2.8.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.springfox/springfox-bean-validators/2.8.0/e976e3abef6b1332a53c6ede381054f25ff2207d/springfox-bean-validators-2.8.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.springfox/springfox-bean-validators/2.8.0/282f84b7780c101d9fa343b82d858e69c428bb68/springfox-bean-validators-2.8.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

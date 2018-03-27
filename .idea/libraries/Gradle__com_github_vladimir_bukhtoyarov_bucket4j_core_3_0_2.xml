@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.vladimir-bukhtoyarov:bucket4j-core:3.0.2">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.vladimir-bukhtoyarov/bucket4j-core/3.0.2/e477691275053f51b1b7ac8c83cdb09129d37fbf/bucket4j-core-3.0.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.vladimir-bukhtoyarov/bucket4j-core/3.0.2/dfad9af9f497cb3b0c5b7c19d33bd73c4ade4860/bucket4j-core-3.0.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

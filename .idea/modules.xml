@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/billing/billing.iml" filepath="$PROJECT_DIR$/.idea/modules/billing/billing.iml" group="billing" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/billing/billing_main.iml" filepath="$PROJECT_DIR$/.idea/modules/billing/billing_main.iml" group="billing" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/billing/billing_test.iml" filepath="$PROJECT_DIR$/.idea/modules/billing/billing_test.iml" group="billing" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/book/book.iml" filepath="$PROJECT_DIR$/.idea/modules/book/book.iml" group="book" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/book/book_main.iml" filepath="$PROJECT_DIR$/.idea/modules/book/book_main.iml" group="book" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/book/book_test.iml" filepath="$PROJECT_DIR$/.idea/modules/book/book_test.iml" group="book" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/cms.iml" filepath="$PROJECT_DIR$/.idea/modules/cms.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/cms_main.iml" filepath="$PROJECT_DIR$/.idea/modules/cms_main.iml" group="cms" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/cms_test.iml" filepath="$PROJECT_DIR$/.idea/modules/cms_test.iml" group="cms" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/content/content.iml" filepath="$PROJECT_DIR$/.idea/modules/content/content.iml" group="content" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/content/content_main.iml" filepath="$PROJECT_DIR$/.idea/modules/content/content_main.iml" group="content" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/content/content_test.iml" filepath="$PROJECT_DIR$/.idea/modules/content/content_test.iml" group="content" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/gateway/gateway.iml" filepath="$PROJECT_DIR$/.idea/modules/gateway/gateway.iml" group="gateway" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/gateway/gateway_main.iml" filepath="$PROJECT_DIR$/.idea/modules/gateway/gateway_main.iml" group="gateway" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/gateway/gateway_test.iml" filepath="$PROJECT_DIR$/.idea/modules/gateway/gateway_test.iml" group="gateway" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/oss/oss.iml" filepath="$PROJECT_DIR$/.idea/modules/oss/oss.iml" group="oss" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/oss/oss_main.iml" filepath="$PROJECT_DIR$/.idea/modules/oss/oss_main.iml" group="oss" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/oss/oss_test.iml" filepath="$PROJECT_DIR$/.idea/modules/oss/oss_test.iml" group="oss" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/register-center/register-center.iml" filepath="$PROJECT_DIR$/.idea/modules/register-center/register-center.iml" group="register-center" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/register-center/register-center_main.iml" filepath="$PROJECT_DIR$/.idea/modules/register-center/register-center_main.iml" group="register-center" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/register-center/register-center_test.iml" filepath="$PROJECT_DIR$/.idea/modules/register-center/register-center_test.iml" group="register-center" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/report/report.iml" filepath="$PROJECT_DIR$/.idea/modules/report/report.iml" group="report" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/report/report_main.iml" filepath="$PROJECT_DIR$/.idea/modules/report/report_main.iml" group="report" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/report/report_test.iml" filepath="$PROJECT_DIR$/.idea/modules/report/report_test.iml" group="report" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/uaa/uaa.iml" filepath="$PROJECT_DIR$/.idea/modules/uaa/uaa.iml" group="uaa" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/uaa/uaa_main.iml" filepath="$PROJECT_DIR$/.idea/modules/uaa/uaa_main.iml" group="uaa" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/uaa/uaa_test.iml" filepath="$PROJECT_DIR$/.idea/modules/uaa/uaa_test.iml" group="uaa" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.hazelcast:hazelcast-hibernate52:1.2.2">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.hazelcast/hazelcast-hibernate52/1.2.2/1324e8c79955115e78d931230bdc22fd3d09f8a8/hazelcast-hibernate52-1.2.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.hazelcast/hazelcast-hibernate52/1.2.2/e43667f6bf4ca10cd59f8f7b20fa49e14cdafcb5/hazelcast-hibernate52-1.2.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

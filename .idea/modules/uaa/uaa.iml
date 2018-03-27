@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id=":uaa" external.linked.project.path="$MODULE_DIR$/../../../uaa" external.root.project.path="$MODULE_DIR$/../../.." external.system.id="GRADLE" external.system.module.group="com.smartscity.uaa" external.system.module.version="0.0.1-SNAPSHOT" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../../uaa">
+      <excludeFolder url="file://$MODULE_DIR$/../../../uaa/.gradle" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../uaa/build/classes" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../uaa/build/elasticsearch" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../uaa/build/jacoco" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../uaa/build/libs" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../uaa/build/poms" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../uaa/build/resources" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../uaa/build/test-results" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../uaa/build/tmp" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
